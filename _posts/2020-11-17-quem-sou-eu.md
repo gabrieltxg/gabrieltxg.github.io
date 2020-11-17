@@ -3,7 +3,7 @@ layout: post
 title: "Sobre mim e sobre o que eu faço"
 author: "Gabriel"
 categories: 
-tags: [caos]
+tags: 
 image: chirikov_401_x0_1000.png
 ---
 
