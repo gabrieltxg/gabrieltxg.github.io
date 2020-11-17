@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quem sou eu?!
+title: Quem sou eu?
 ---
 
 Bem vindo! 
