@@ -30,3 +30,5 @@ $$\dot{\vec{v}}(t) = Df(x, y,...)\vec{v}(t),$$
 onde $v(t)$ é um vetor tangente inicial qualquer e $Df(x, y,...)$ é a matriz jacobiana do sistema de equações que rege a dinâmica do sistema.
 
 Assim, a imagem representa um __mapa dinâmico__ deste sistema e indica quais condições iniciais são regulares --- zonas mais claras --- e quais são caóticas --- quais são mais escuras.
+
+Uma simples aplicação e uma explicação mais simples ainda, mas este tipo de ferramenta é fundamental para desenvolvimento de teorias e obtenção de respostas sobre inúmeros sistemas estudados. No meu caso, sobre sistemas planetários, mas pode ser em qualquer outro onde possa haver a incidência de Caos.
