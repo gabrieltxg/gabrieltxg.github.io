@@ -12,4 +12,4 @@ Abaixo, alguns links de referência sobre onde me encontrar, desde repositórios
   * Para informações acadêmicas, tem [o meu currículo Lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8601382U2) e para as profissionais, [o meu linkedin](https://www.linkedin.com/in/gabrieltxg/)
   * Por fim, tem [o meu github](https://github.com/gabrieltxg/), que ainda é meio vazio mas eu pretendo preencher com templates de LaTeX e códigos utilizados em minha pesquisa e nos meus estudos.
   
-De modo geral, me alcança pelo meu e-mail, ```[gabriel.guimaraes@usp.br](mailto:gabriel.guimaraes@usp.br)``` e dá um oi por lá.
+De modo geral, me alcança pelo meu e-mail, [```gabriel.guimaraes@usp.br```](mailto:gabriel.guimaraes@usp.br) e dá um oi por lá.
