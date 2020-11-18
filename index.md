@@ -13,7 +13,7 @@ Para eventuais coisas que eu publicar aqui, você pode ir no "[O que?](https://g
 
 Para uma versão resumida do meu CV (que eu ainda não montei), o "[Profissa](https://gabrieltxg.github.io/menu/cv.html)"
 
-Para uma lista de lugares virtuais onde cê pode me encontrar, vá no "[Alô!](https://gabrieltxg.github.io/menu/contact.html)"
+Para uma lista de lugares virtuais onde cê pode me encontrar, vá no "[Onde?](https://gabrieltxg.github.io/menu/contact.html)"
 
 Sobre a imagem, um espectro dinâmico, simpaticíssimo e cheio de informação.
 
