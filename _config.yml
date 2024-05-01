@@ -9,6 +9,7 @@ gems:  [jekyll-paginate]
 
 # Setup
 title:            "Gabriel's Page"
+sidebar_logo_url: "https://github.com/gabrieltxg/gabrieltxg.github.io/blob/main/public/pric_profil.jpg"
 tagline:          ''
 description:      'M.Sc in Astronomy ("Master of chaos" is so nicer). Ph.D student at SOKENDAI and Associate Researcher at NAOJ. Celestial Mechanics, Planetary formation and Chaotic dynamics.'
 url:              gabrieltxg.github.io
