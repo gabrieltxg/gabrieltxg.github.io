@@ -23,6 +23,6 @@ Here's a list of my inside-and-outside-of-academia work experience. I learned qu
 ### Other Relevant Experience
 * Data Scientist at Fieldpro, Brazil. 2022 - 2023
 * Data Analyst at São Paulo Municipal Government, Brazil. 2018-2020
-* Web Developing Intern at University of São Paulo (IAG-USP), Brazil. 2013 - 2014
+* Web Development Intern at University of São Paulo (IAG-USP), Brazil. 2013 - 2014
 
 
