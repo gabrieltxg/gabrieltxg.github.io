@@ -10,8 +10,10 @@ A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabriel
 ### Education
 * Ph.D Candidate in Astronomy, Graduate University of Advanced Studies (SOKENDAI), Japan. 2024 - present
   * Research Project: _Theoretical study of planetary dynamics_
+  * Supervisor: [Eiichiro Kokubo](https://www.cfca.nao.ac.jp/~kokubo/)
 * M.Sc in Astronomy, University of São Paulo (IAG-USP), Brazil. 2020 - 2023
   * Research Project: _Tools for detection of chaotic diffusion in dynamical systems_
+  * Supervisor: Tatiana Michtchenko
 * B.Sc in Physics, University of São Paulo (IF-USP), Brazil. 2019 - 2019
 * B.Sc in Astronomy, University of São Paulo (IAG-USP), Brazil. 2012-2018
   * Research Project: _Chaos in Nonlinear Dynamical Systems: Frequency and Lyapunov Analysis; Web of Resonances_
