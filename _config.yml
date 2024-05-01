@@ -10,7 +10,7 @@ gems:  [jekyll-paginate]
 # Setup
 title:            "Gabriel's Page"
 tagline:          ''
-description:      'M.Sc in Astronomy ("Master of chaos" is so nicer). Ph.D student at SOKENDAI and Associate Researcher at NAOJ. Celestial Mechanics, Planetary formation and Chaotic dynamics.'
+description:      'Ph.D student at SOKENDAI and Associate Researcher at NAOJ. M.Sc in Astronomy (IAG-USP). Celestial Mechanics, Planetary formation and Chaotic dynamics.'
 url:              gabrieltxg.github.io
 baseurl:          /
 
