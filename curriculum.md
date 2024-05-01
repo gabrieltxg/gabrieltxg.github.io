@@ -5,6 +5,8 @@ title: Curriculum Vitae
 
 Here's a list of my inside-and-outside-of-academia work experience. I learned quite a lot from all of them.
 
+A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabrieltxg.github.io/blob/main/public/cv_gabriel.pdf)
+
 ### Education
 * Ph.D Candidate in Astronomy, Graduate University of Advanced Studies (SOKENDAI), Japan. 2024 - present
   * Research Project: _Theoretical study of planetary dynamics_
@@ -19,6 +21,11 @@ Here's a list of my inside-and-outside-of-academia work experience. I learned qu
 * Graduate Research Intern, University of Tokyo (UTokyo), Japan. 2023 - 2023
 * Master's Student, University of São Paulo (IAG-USP), Brazil. 2020 - 2022
 * Undergraduate Research Student, University of São Paulo (IAG-USP), Brazil. 2017 - 2018
+
+### Scholarships
+* Monbukagakusho (MEXT) scholarship. 2023 - present
+* Coordination for the Improvement of Higher Education Personnel (CAPES). 2020 - 2022
+* National Council for Scientific and Technological Development (CNPq). 2017 - 2018
 
 ### Other Relevant Experience
 * Data Scientist at Fieldpro, Brazil. 2022 - 2023
