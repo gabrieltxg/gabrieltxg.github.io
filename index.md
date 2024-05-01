@@ -3,30 +3,20 @@ layout: post
 title: Home
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello!
 
-Será que eu consigo colocar equações? Vamos ver: $$\vec{F}_{ij} = -\nabla U_{ij} = \frac{Gm_{i}m_{j}}{r_{ij}^{3}}$$
+Ignoring all major philosophical implications of such a question, my name is Gabriel, but you can call me Gabs or Gabo. I'm from Brazil and I have been living in Tokyo since April/2023.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I'm a Ph.D student at the Graduate University for Advanced Studies (SOKENDAI) and an Associate Researcher at the Division of Science of the National Astronomical Observatory of Japan (NAOJ).
 
-There are currently two themes built on Poole:
+My main research objects are Compact Planetary Systems, which I study from numerical and theoretical point of view, under supervision of Professor Eiichiro Kokubo (NAOJ).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Before coming to the other side of the world, I completed my undergraduate (2012 -- 2018) and Master's Degree (2020 -- 2023) in Astronomy at the Institute of Astronomy, Geophysics and Atmospheric Sciences of the University of São Paulo (IAG-USP). During this period I studied chaotic phenomena and more specifically tools for detection of chaotic motion (such as Lyapunov Exponents, Frequency Mappings and Shannon Entropy), when I became the Master of Chaos (or at least M.Sc).
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+My main scientific interests are celestial mechanics and dynamical astronomy (from small bodies of the solar system to galactic dynamics), planetary formation, evolution and stability and chaotic phenomena in general.
 
-## Setup
+Apart from science, I enjoy reading and listening to all kinds of music (from mongolian throat singing to german punk).
 
-Some fun facts about the setup of this project include:
+In my free time you can usually see me walking around aimlessly, looking for jazz clubs, throwing random jabs in the streets or just watching as time goes by.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+See you!
