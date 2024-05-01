@@ -16,11 +16,27 @@ baseurl:          /
 
 author:
   name:           'Gabriel T. Guimarães'
+  email:          mailto:gabrieltxg@gmail.com
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+
+
+# custom vars
+since:                  2020
+google_analytics:       G-6SHFSQN5L4
+emailme:                mailto:gabrieltxg@gmail.com
+github:
+  repo:                 https://github.com/gabrieltxg/gabrieltxg.github.io
+version:                May.01.2024
+orcid_username:         0000-0003-1890-6356
+googlescholar_username: C1Vlz6gAAAAJ
+researchgate_username:  gabriel-guimaraes-6
+linkedin_username:      gabrieltxg
+github_username:        gabrieltxg
+share_pdf:              no
+share_video:            no
+
 
 github:
   repo:           https://github.com/poole/hyde
