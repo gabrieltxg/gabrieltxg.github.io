@@ -8,7 +8,7 @@ relative_permalinks: false
 gems:  [jekyll-paginate]
 
 # Setup
-title:            "Gabriel's Page"
+title:            "Gabriel T. Guimarães"
 tagline:          ''
 description:      'Ph.D student at SOKENDAI and Associate Researcher at NAOJ. M.Sc in Astronomy (IAG-USP). Celestial Mechanics, Planetary formation and Chaotic dynamics.'
 url:              gabrieltxg.github.io
