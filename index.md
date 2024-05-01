@@ -7,7 +7,7 @@ Hello!
 
 Ignoring all major philosophical implications of such a question, my name is Gabriel, but you can call me Gabs or Gabo. I'm from Brazil and I have been living in Tokyo since April/2023.
 
-I'm a Ph.D student at the Graduate University for Advanced Studies (SOKENDAI) and an Associate Researcher at the Division of Science of the National Astronomical Observatory of Japan (NAOJ).
+I'm a Ph.D candidate at the Graduate University for Advanced Studies (SOKENDAI) and an Associate Researcher at the Division of Science of the National Astronomical Observatory of Japan (NAOJ).
 
 My main research objects are Compact Planetary Systems, which I study from numerical and theoretical point of view, under supervision of Professor Eiichiro Kokubo (NAOJ).
 
