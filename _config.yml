@@ -8,15 +8,14 @@ relative_permalinks: false
 gems:  [jekyll-paginate]
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            "Gabriel's Page"
+tagline:          ''
+description:      'M.Sc in Astronomy ("Master of chaos" is so nicer). Ph.D student at SOKENDAI and Associate Researcher at NAOJ. Celestial Mechanics, Planetary formation and Chaotic dynamics.'
+url:              gabrieltxg.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Gabriel T. Guimarães'
 
 paginate:         5
 
