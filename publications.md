@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-A list of my publications, [peer-reviewed](peer-reviewed-papers-publilshed), [abstracts](papers-published-in-conference-proceedings) and [outreach](outreach-publications). Let's hope it will get bigger in the next months.
+A list of my publications, [peer-reviewed](#peer-reviewed-papers-publilshed), [abstracts](#papers-published-in-conference-proceedings) and [outreach](#outreach-publications). Let's hope it will get bigger in the next months.
 
 ### Peer-reviewed Papers Publilshed
 
