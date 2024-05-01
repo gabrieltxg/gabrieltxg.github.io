@@ -28,7 +28,7 @@
       {% endfor %}
 
       <li class="sidebar-nav-item"><a href="{{ site.emailme }}">Contact Me</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.github.repo }}">Hosted by Github</a></li>
+
       <!-- social buttons -->
       {% if site.orcid_username %}
       <a href="https://orcid.org/{{ site.orcid_username }}" target="_blank" style="text-decoration:none">
@@ -82,6 +82,7 @@
       {% endif %}
     </nav>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+          <!><p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p><\!>
+
   </div>
 </div>
