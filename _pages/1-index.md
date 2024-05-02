@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Who am I?
+permalink: /
 ---
 
 Hello!
