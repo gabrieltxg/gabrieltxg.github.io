@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Who am I?
+title: Home
 permalink: /
 ---
 
