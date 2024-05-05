@@ -20,4 +20,6 @@ Apart from science, I enjoy reading and listening to all kinds of music (from mo
 
 In my free time you can usually see me walking around aimlessly, looking for jazz clubs, throwing random jabs in the streets or just watching as time goes by.
 
+I will try to make some writing [here](../notes/){:target="_blank"} whenever I can.
+
 See you!
