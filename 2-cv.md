@@ -12,7 +12,7 @@ For a list of my academic publications, you can click [here](#publications).
 
 If you are interested in some of my talks and presentations, come [here](#selected-talks).
 
-Finally - but definitely not least -, come outreach activity can be seen [here](#outreach-activities) (all in portuguese).
+Finally - but definitely not least - , some outreach activity can be seen [here](#outreach-activities) (all in portuguese).
 
 A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabrieltxg.github.io/blob/main/public/cv_gabriel.pdf)
 
