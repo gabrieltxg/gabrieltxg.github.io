@@ -14,7 +14,7 @@ If you are interested in some of my talks and presentations, come [here](#select
 
 Finally - but definitely not least - , some outreach activity can be seen [here](#outreach-activities) (all in portuguese).
 
-A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabrieltxg.github.io/blob/main/public/cv_gabriel.pdf)
+A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabrieltxg.github.io/raw/main/public/cv_gabriel.pdf)
 
 ## CV
 ### Education
