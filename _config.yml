@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      rouge
-include:          ['_pages', '_subpages']
+include:          '_pages'
 
 # Permalinks
 permalink:        pretty
