@@ -2,7 +2,7 @@
 title: Introduction
 date: 2024-05-09
 layout: post  
-permalink: /intro/
+excerpt: "**VAMOS COLOCAR UM PRIMEIRO EXEXMPLO**"
 ---
 **VAMOS COLOCAR UM PRIMEIRO EXEXMPLO**
 
