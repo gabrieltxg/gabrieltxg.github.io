@@ -5,13 +5,22 @@ permalink: /notes
 ---
 
 {% for post in site.posts %}
+{% if post.layout == "post" %}
+  * <strong>{{ post.date | date_to_string }}</strong> &raquo; [ {{ post.title }} ]({{ post.url }})
+  {% if post.excerpt %}
+    <small>{{ post.excerpt }}</small>
+  {% endif %}
+{% endif %}
+{% endfor %}
+
+<!--
+{% for post in site.posts %}
   * <strong>{{ post.date | date_to_string }}</strong> &raquo; [ {{ post.title }} ]({{ post.url }})
   {% if post.excerpt %}
     <small>{{ post.excerpt }}</small>
   {% endif %}
 {% endfor %}
 
-<!--
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
