@@ -45,5 +45,6 @@ permalink: /notes
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+ </div>
 -->
-</div>
+
