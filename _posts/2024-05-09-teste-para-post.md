@@ -2,6 +2,7 @@
 title: Introduction
 date: 2024-05-09
 layout: post  
+permalink: /intro/
 ---
 **VAMOS COLOCAR UM PRIMEIRO EXEXMPLO**
 
