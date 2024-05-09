@@ -5,12 +5,10 @@ permalink: /notes
 ---
 
 {% for post in site.posts %}
-<!--{% if node.layout == "post" %}-->
   * <strong>{{ post.date | date_to_string }}</strong> &raquo; [ {{ post.title }} ]({{ post.url }})
   {% if post.excerpt %}
     <small>{{ post.excerpt }}</small>
   {% endif %}
-<!--{% endif %}-->
 {% endfor %}
 
 <!--
