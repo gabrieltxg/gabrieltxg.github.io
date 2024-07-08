@@ -76,7 +76,7 @@ https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/
 
 Here's a list of the talks and presentations I gave on academic conferences.
 
-1. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems -- Krakow, Poland, 2024.
+1. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems - Krakow, Poland, 2024.
 2. **Chaotic diffusion in the action and frequency domains: estimate of instability times.** <br> Oral Presentation at the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, 2022.
 
 3. **Chaotic diffusion in the action and frequency domains.** <br>Poster Presentation at the XLV Annual Meeting of the Brazilian Astronomical Society - SAB, 2022.
