@@ -9,7 +9,7 @@ relative_permalinks: false
 gems:  [jekyll-paginate]
 
 # Setup
-title:            "Gabriel T. Guimarães"
+title:            "Gabriel T. Guimarães (ガブ・ガボ)"
 tagline:          ''
 description:      'Ph.D student and Associate Researcher @ SOKENDAI/NAOJ. Celestial Mechanics, Planetary formation, Chaotic dynamics and Jazz.'
 url:              gabrieltxg.github.io
