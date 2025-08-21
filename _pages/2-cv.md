@@ -40,8 +40,8 @@ A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabriel
 * National Council for Scientific and Technological Development (CNPq). 2017 - 2018
 
 #### Grants
-* SOKENDAI Overseas Travel Fund to attend DDA/AAS meeting (2025, $\approx$ USD1.320$)
-* SOKENDAI Overseas Travel Fund to attend NBIA Summer School (2024, $\approx$ USD2.000$)
+* SOKENDAI Overseas Travel Fund to attend DDA/AAS meeting (2025, $\approx$ USD1.320)
+* SOKENDAI Overseas Travel Fund to attend NBIA Summer School (2024, $\approx$ USD2.000)
 
 ### Other Relevant Experience
 1. The Niels Bohr International Academy Summer School on Astrophysical Dynamics of Gravitating Systems, Copenhagen, Denmark. August/2024
