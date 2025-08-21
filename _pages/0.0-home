@@ -3,4 +3,4 @@ layout: page
 permalink: /
 ---
 
-[An amimated Gif](/public/test_evol_chaos.gif)
+![An amimated Gif](./public/test_evol_chaos.gif)
