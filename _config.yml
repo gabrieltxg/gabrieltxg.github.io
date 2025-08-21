@@ -25,7 +25,7 @@ paginate:         5
 
 # custom vars
 since:                  2020
-google_analytics:       G-6SHFSQN5L4
+analytics-id:           G-6SHFSQN5L4
 emailme:                mailto:gabrieltxg@gmail.com
 github:
   repo:                 https://github.com/gabrieltxg/gabrieltxg.github.io
