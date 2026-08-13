@@ -4,7 +4,7 @@ title: Curriculum Vitae
 permalink: /cv
 ---
 
-Currently I'm a Ph.D candidate at SOKENDAI and an Associate Researcher at the National Astronomical Observatory of Japan (NAOJ).
+Currently I'm a (final year!) Ph.D candidate at SOKENDAI and an Associate Researcher at the National Astronomical Observatory of Japan (NAOJ).
 
 You can see a brief version of my inside-and-outside-of-academia experience [here](#cv).
 
@@ -15,6 +15,8 @@ If you are interested in some of my talks and presentations, come [here](#select
 Finally (but definitely not least), some outreach activity can be seen [here](#outreach-activities) (all in portuguese).
 
 A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabrieltxg.github.io/raw/main/public/cv_gabriel.pdf)
+
+If you have a Postdoc opportunity in dynamical astronomy, reach me!
 
 ## CV
 ### Education
