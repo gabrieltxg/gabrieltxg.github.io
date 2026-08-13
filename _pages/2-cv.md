@@ -36,15 +36,20 @@ A PDF version of it can be accessed [here](https://github.com/gabrieltxg/gabriel
 
 ### Scholarships
 * Monbukagakusho (MEXT) scholarship. 2023 - present
-* Coordination for the Improvement of Higher Education Personnel (CAPES). 2020 - 2022
-* National Council for Scientific and Technological Development (CNPq). 2017 - 2018
+* Graduate research scholarship from Coordination for the Improvement of Higher Education Personnel (CAPES). 2020 - 2022
+* Undergraduate research scholarwship from National Council for Scientific and Technological Development (CNPq). 2017 - 2018
 
 #### Grants
-* SOKENDAI Overseas Travel Fund to attend DDA/AAS meeting (2025, $\approx$ USD1.320)
-* SOKENDAI Overseas Travel Fund to attend NBIA Summer School (2024, $\approx$ USD2.000)
+* SOKENDAI Overseas Travel Fund to attend CIME summer school New Challenges in Celestial Mechanics held in Cetraro, Italy (2026, $\approx$ USD1.200)
+* CIME grant to cover for accommodation and daily allowance in the New Challenges in Celestial Mechanics held in Cetraro, Italy (2026, $\approx$ USD560)
+* DDA/AAS Supplementary Travel Grant to attend the annual meeting in Chicago, United States (2026, USD500)
+* SOKENDAI Overseas Travel Fund to attend ICEPF meeting in Shanghai, China (2025, $\approx$ USD1.000)
+* SOKENDAI Overseas Travel Fund to attend DDA/AAS meeting in Atlanta, United States (2025, $\approx$ USD1.320)
+* SOKENDAI Overseas Travel Fund to attend NBIA Summer School in Copenhagen, Denmark (2024, $\approx$ USD2.000)
 
 ### Other Relevant Experience
-1. The Niels Bohr International Academy Summer School on Astrophysical Dynamics of Gravitating Systems, Copenhagen, Denmark. August/2024
+1. New Challenges in Celestial Mechanics Summer School, by Centro Internazionale Matematico Estivo (CIME), Cetraro, Italy. July/2026
+2. The Niels Bohr International Academy Summer School on Astrophysical Dynamics of Gravitating Systems, Copenhagen, Denmark. August/2024
 
 #### Professional Experience
 * Data Scientist at Fieldpro, Brazil. 2022 - 2023
@@ -58,10 +63,10 @@ A list of my publications, [peer-reviewed](#peer-reviewed-papers-publilshed), [a
 ### Peer-reviewed Papers Publilshed
 
 #### First-author
-1. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times**, _The European Physical Journal Special Topics_.
-   https://doi.org/10.1140/epjs/s11734-023-01017-x
+1. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times**, _The European Physical Journal Special Topics_, 2023. [https://doi.org/10.1140/epjs/s11734-023-01017-x](https://doi.org/10.1140/epjs/s11734-023-01017-x)
 #### Second and third-author
-2. Ceccatto, D. T., Callegari, N., **Guimarães, G. T.** , Gimenez, K., **Orbital dynamics of Atlas (S XV): Its current orbit and the recent past**, _Planetary and Space Science_. https://doi.org/10.1016/j.pss.2024.106016.
+1. Ceccatto, D. T., Callegari, N., **Guimarães, G. T.**, **Revisiting the dynamics of the Prometheus–Pandora system**, _Planetary and Space Science_, 2026. [https://doi.org/10.1016/j.pss.2024.106016](https://doi.org/10.1016/j.pss.2026.106304).
+2. Ceccatto, D. T., Callegari, N., **Guimarães, G. T.** , Gimenez, K., **Orbital dynamics of Atlas (S XV): Its current orbit and the recent past**, _Planetary and Space Science_, 2025. [https://doi.org/10.1016/j.pss.2024.106016](https://doi.org/10.1016/j.pss.2024.106016).
 
 ### Master's thesis
 1. **Guimarães, G. T.**, Michtchenko, T. A., **Tools for detection of chaotic diffusion in dynamical systems.**
@@ -69,43 +74,49 @@ A list of my publications, [peer-reviewed](#peer-reviewed-papers-publilshed), [a
 
 
 ### Papers published in Conference Proceedings
-1. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times.** _Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_ https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/
+1. **Guimarães, G. T.**, Kokubo, E., **Orbital instability in apsidally-aligned compact planetary systems**, _Symposium on Celestial Mechanics and N-body Dynamics, 2025_, https://drive.google.com/file/d/15ZrkDdPdx4c1UwqUj8V09Il1wZR0D9zr/view?usp=sharing
+2. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times.** _Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_ https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/
 
 ### Abstracts Published in Conference Proceedings
-1. **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _AAS/Division of Dynamical Astronomy Meeting, 2025_, https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T
-2. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times** _Book of proceedings of the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, 2022_
-3. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains** _Book of Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_
-4. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Resúmenes de Presentaciones en Poster at the XI Taller De Ciencias Planetarias, 2022_
-5. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, 2021_
-6. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, 2021_
-7. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales** _Book of proceedings of the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, 2018_
-8. **Guimarães, G. T.**, Michtchenko, T. A., **Nyquist Frequency, Chaos Detection and Orbit Determination** _SPANet Workshop on Time Series in Astronomy, 2018_
-9. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in the Dynamical Systems: Lyapunov and Frequency Analysis; Diffusion Timescales** _26th International Symposium on Scientific and Technological Initiation at USP, 2018_
+1. **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _DPS-EPSC joint meeting , 2025_, [https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T](https://ui.adsabs.harvard.edu/link_gateway/2025epsc.conf.1555T/doi:10.5194/epsc-dps2025-1555)
+2.  **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _AAS/Division of Dynamical Astronomy Meeting, 2025_, https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T
+3. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times** _Book of proceedings of the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, 2022_
+4. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains** _Book of Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_
+5. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Resúmenes de Presentaciones en Poster at the XI Taller De Ciencias Planetarias, 2022_
+6. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, 2021_
+7. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, 2021_
+8. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales** _Book of proceedings of the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, 2018_
+9. **Guimarães, G. T.**, Michtchenko, T. A., **Nyquist Frequency, Chaos Detection and Orbit Determination** _SPANet Workshop on Time Series in Astronomy, 2018_
+10. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in the Dynamical Systems: Lyapunov and Frequency Analysis; Diffusion Timescales** _26th International Symposium on Scientific and Technological Initiation at USP, 2018_
 
 ## Conferences
 
 ### International Conferences
-1. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Poster Presentation at the International Conference on Exoplanets and Planet Formation - Shanghai, China, 2025
-2. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the DPS-EPSC joint meeting - Helsinki, Finland, 2025
-3. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at 56th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Atlanta, USA, 2025
-4. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems - Krakow, Poland, 2024.
-5. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Oral Presentation at the XI Taller De Ciencias Planetarias, Argentina, 2022.
+1. **Dynamical instabilities in apsidally aligned systems** <br>Oral Presentation at 57th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Chicago, USA, 2026
+2. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Oral Presentation at the XIII Taller Internacional de Ciéncias Planetárias - Montevideo, Uruguay, 2026
+3. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Poster Presentation at the International Conference on Exoplanets and Planet Formation - Shanghai, China, 2025
+4. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the DPS-EPSC joint meeting - Helsinki, Finland, 2025
+5. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at 56th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Atlanta, USA, 2025
+6. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems - Krakow, Poland, 2024.
+7. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Oral Presentation at the XI Taller De Ciencias Planetarias, Argentina, 2022.
 
 ### Domestic Conferences
-1. **Orbital Instabilities in Eccentric Compact Planetary Systems** <br>Oral Presentation at Division of Science (DoS/NAOJ) workshop - Hayama, Japan, 2025
-2. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the Celestial Mechanics & N-body Dynamics Meeting (天体力学N体力学研究会) - Tokyo, Japan, 2025
-3. **From planets to particles: chaos all around** <br>Oral Presentation at the SOKENDAI KEK-NAOJ Joint Seminar - Nagano, Japan, 2025
-4. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at the  Japan Geoscience Union Meeting - Chiba, Japan, 2025
-5. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at the Young Transiting Planets Workshop - Ishigakijima, Japan, 2025
-6. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at Division of Science (DoS/NAOJ) workshop - Fujikawaguchiko, Japan, 2024
-7. **Orbital Instabilities of Compact Planetary Systems** <br>Poster Presentation at User's meeting of the Center for Computational Astrophysics (CfCA) - Tokyo, Japan, 2024
-8. **Orbital Instabilities of Compact Planetary Systems** <br>Poster Presentation at the Autumn meeting of the Japanese Society of Planetary Systems - Fukuoka, Japan, 2024
-9. **Chaotic diffusion in the action and frequency domains: estimate of instability times.** <br> Oral Presentation at the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, São José dos Campos, Brazil, 2022.
-10. **Chaotic diffusion in the action and frequency domains.** <br>Poster Presentation at the XLV Annual Meeting of the Brazilian Astronomical Society - SAB, Brazil, 2022.
-11. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Poster Presentation at the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, Brazil, 2021.
-12. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Poster Presentation at the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, Brazil, 2021.
-13. **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales.** <br>Poster presentation at the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, São José dos Campos, Brazil, 2018.
-14. **Nyquist Frequency, Chaos Detection and Orbit Determination.** <br>Poster presentation at the SPANET Workshop on Time Series in Astronomy, São Paulo, Brazil, 2018.
+1. **Apsidal alignment in young system v1298 Tauri** <br>Oral Presentation at the Young Transiting Planets Workshop - Okinawa, Japan, 2026
+2. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Poster Presentation at User's meeting of the Center for Computational Astrophysics (CfCA) - Tokyo, Japan, 2026
+3. **Orbital Instabilities in Eccentric Compact Planetary Systems** <br>Oral Presentation at Division of Science (DoS/NAOJ) workshop - Hayama, Japan, 2025
+4. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the Celestial Mechanics & N-body Dynamics Meeting (天体力学N体力学研究会) - Tokyo, Japan, 2025
+5. **From planets to particles: chaos all around** <br>Oral Presentation at the SOKENDAI KEK-NAOJ Joint Seminar - Nagano, Japan, 2025
+6. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at the  Japan Geoscience Union Meeting - Chiba, Japan, 2025
+7. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at the Young Transiting Planets Workshop - Ishigakijima, Japan, 2025
+8. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at Division of Science (DoS/NAOJ) workshop - Fujikawaguchiko, Japan, 2024
+9. **Orbital Instabilities of Compact Planetary Systems** <br>Poster Presentation at User's meeting of the Center for Computational Astrophysics (CfCA) - Tokyo, Japan, 2024
+10. **Orbital Instabilities of Compact Planetary Systems** <br>Poster Presentation at the Autumn meeting of the Japanese Society of Planetary Systems - Fukuoka, Japan, 2024
+11. **Chaotic diffusion in the action and frequency domains: estimate of instability times.** <br> Oral Presentation at the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, São José dos Campos, Brazil, 2022.
+12. **Chaotic diffusion in the action and frequency domains.** <br>Poster Presentation at the XLV Annual Meeting of the Brazilian Astronomical Society - SAB, Brazil, 2022.
+13. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Poster Presentation at the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, Brazil, 2021.
+14. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Poster Presentation at the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, Brazil, 2021.
+15. **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales.** <br>Poster presentation at the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, São José dos Campos, Brazil, 2018.
+16. **Nyquist Frequency, Chaos Detection and Orbit Determination.** <br>Poster presentation at the SPANET Workshop on Time Series in Astronomy, São Paulo, Brazil, 2018.
 
 ## Outreach activities
 
