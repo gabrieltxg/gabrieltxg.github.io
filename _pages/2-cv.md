@@ -39,9 +39,10 @@ If you have a Postdoc opportunity in dynamical astronomy, reach me!
 ### Scholarships
 * Monbukagakusho (MEXT) scholarship. 2023 - present
 * Graduate research scholarship from Coordination for the Improvement of Higher Education Personnel (CAPES). 2020 - 2022
-* Undergraduate research scholarwship from National Council for Scientific and Technological Development (CNPq). 2017 - 2018
+* Undergraduate research scholarship from National Council for Scientific and Technological Development (CNPq). 2017 - 2018
 
 #### Grants
+* SOKENDAI Student Dispatch Program to attend EPSC/2026 and XI CELMEC, in The Hague, Netherlands (September/06-11) and Viterbo, Italy, (September/14-18) respectively (2026, $\approx$ USD3200)*
 * SOKENDAI Overseas Travel Fund to attend CIME summer school New Challenges in Celestial Mechanics held in Cetraro, Italy (2026, $\approx$ USD1.200)
 * CIME grant to cover for accommodation and daily allowance in the New Challenges in Celestial Mechanics held in Cetraro, Italy (2026, $\approx$ USD560)
 * DDA/AAS Supplementary Travel Grant to attend the annual meeting in Chicago, United States (2026, USD500)
@@ -50,8 +51,9 @@ If you have a Postdoc opportunity in dynamical astronomy, reach me!
 * SOKENDAI Overseas Travel Fund to attend NBIA Summer School in Copenhagen, Denmark (2024, $\approx$ USD2.000)
 
 ### Other Relevant Experience
-1. New Challenges in Celestial Mechanics Summer School, by Centro Internazionale Matematico Estivo (CIME), Cetraro, Italy. July/2026
-2. The Niels Bohr International Academy Summer School on Astrophysical Dynamics of Gravitating Systems, Copenhagen, Denmark. August/2024
+1. Joint research period at the Observatoire de la Côte d'Azur, Nice, France. September/2026
+2. New Challenges in Celestial Mechanics Summer School, by Centro Internazionale Matematico Estivo (CIME), Cetraro, Italy. July/2026
+3. The Niels Bohr International Academy Summer School on Astrophysical Dynamics of Gravitating Systems, Copenhagen, Denmark. August/2024
 
 #### Professional Experience
 * Data Scientist at Fieldpro, Brazil. 2022 - 2023
@@ -65,7 +67,8 @@ A list of my publications, [peer-reviewed](#peer-reviewed-papers-publilshed), [a
 ### Peer-reviewed Papers Publilshed
 
 #### First-author
-1. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times**, _The European Physical Journal Special Topics_, 2023. [https://doi.org/10.1140/epjs/s11734-023-01017-x](https://doi.org/10.1140/epjs/s11734-023-01017-x)
+1. **Guimarães, G. T.**, Kokubo, E., **Orbital Stability of Apsidally Aligned Planetary Systems**, _Accepted for publication at the Astrophysical Journal_, 2026. [10.48550/arXiv.2610.21117](10.48550/arXiv.2610.21117)
+2. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times**, _The European Physical Journal Special Topics_, 2023. [https://doi.org/10.1140/epjs/s11734-023-01017-x](https://doi.org/10.1140/epjs/s11734-023-01017-x)
 #### Second and third-author
 1. Ceccatto, D. T., Callegari, N., **Guimarães, G. T.**, **Revisiting the dynamics of the Prometheus–Pandora system**, _Planetary and Space Science_, 2026. [https://doi.org/10.1016/j.pss.2024.106016](https://doi.org/10.1016/j.pss.2026.106304).
 2. Ceccatto, D. T., Callegari, N., **Guimarães, G. T.** , Gimenez, K., **Orbital dynamics of Atlas (S XV): Its current orbit and the recent past**, _Planetary and Space Science_, 2025. [https://doi.org/10.1016/j.pss.2024.106016](https://doi.org/10.1016/j.pss.2024.106016).
@@ -74,33 +77,36 @@ A list of my publications, [peer-reviewed](#peer-reviewed-papers-publilshed), [a
 1. **Guimarães, G. T.**, Michtchenko, T. A., **Tools for detection of chaotic diffusion in dynamical systems.**
 [English version](https://www.researchgate.net/publication/374060570_Tools_for_analysis_of_chaotic_diffusion_in_dynamical_systems_Ferramentas_para_analise_de_difusao_caotica_em_sistemas_dinamicos) and [Portuguese version](https://www.teses.usp.br/teses/disponiveis/14/14131/tde-05052023-132228/en.php).
 
-
 ### Papers published in Conference Proceedings
-1. **Guimarães, G. T.**, Kokubo, E., **Orbital instability in apsidally-aligned compact planetary systems**, _Symposium on Celestial Mechanics and N-body Dynamics, 2025_, https://drive.google.com/file/d/15ZrkDdPdx4c1UwqUj8V09Il1wZR0D9zr/view?usp=sharing
-2. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times.** _Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_ https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/
+1. **Guimarães, G. T.**, Kokubo, E., **Orbital instability in apsidally-aligned compact planetary systems**, _Symposium on Celestial Mechanics and N-body Dynamics, 2025_, [https://drive.google.com/file/d/15ZrkDdPdx4c1UwqUj8V09Il1wZR0D9zr/view?usp=sharing](https://drive.google.com/file/d/15ZrkDdPdx4c1UwqUj8V09Il1wZR0D9zr/view?usp=sharing)
+2. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times.** _Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_ [https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/](https://sab-astro.org.br/sab/publicacoes/boletim-da-sab-vol-34/)
 
 ### Abstracts Published in Conference Proceedings
-1. **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _DPS-EPSC joint meeting , 2025_, [https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T](https://ui.adsabs.harvard.edu/link_gateway/2025epsc.conf.1555T/doi:10.5194/epsc-dps2025-1555)
-2.  **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _AAS/Division of Dynamical Astronomy Meeting, 2025_, https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T
-3. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times** _Book of proceedings of the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, 2022_
-4. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains** _Book of Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_
-5. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Resúmenes de Presentaciones en Poster at the XI Taller De Ciencias Planetarias, 2022_
-6. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, 2021_
-7. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, 2021_
-8. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales** _Book of proceedings of the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, 2018_
-9. **Guimarães, G. T.**, Michtchenko, T. A., **Nyquist Frequency, Chaos Detection and Orbit Determination** _SPANet Workshop on Time Series in Astronomy, 2018_
-10. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in the Dynamical Systems: Lyapunov and Frequency Analysis; Diffusion Timescales** _26th International Symposium on Scientific and Technological Initiation at USP, 2018_
+1. **Guimarães, G. T.**, Kokubo, E., **Dynamical Characterization of v1298 b-e planetary pair**, _EPSC2026 , 2026_, [https://doi.org/10.5194/epsc2026-205](https://doi.org/10.5194/epsc2026-205)
+2.  **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _AAS/Division of Dynamical Astronomy Meeting, 2026_, [https://ui.adsabs.harvard.edu/abs/2026DDA....5720006T/abstract](https://ui.adsabs.harvard.edu/abs/2026DDA....5720006T/abstract)
+3. **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _DPS-EPSC joint meeting , 2025_, [https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T](https://ui.adsabs.harvard.edu/link_gateway/2025epsc.conf.1555T/doi:10.5194/epsc-dps2025-1555)
+4.  **Guimarães, G. T.**, Kokubo, E., **Orbital instabilities in compact planetary systems**, _AAS/Division of Dynamical Astronomy Meeting, 2025_, [https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T](https://ui.adsabs.harvard.edu/abs/2025DDA....5610304T)
+5. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains: estimate of instability times** _Book of proceedings of the 21th Brazilian Colloquium on Orbital Dynamics - XXI CBDO, 2022_
+6. **Guimarães, G. T.**, Michtchenko, T. A., **Chaotic diffusion in the action and frequency domains** _Book of Proceedings of the XLV Annual Meeting of the Brazilian Astronomical Society, 2022_
+7. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Resúmenes de Presentaciones en Poster at the XI Taller De Ciencias Planetarias, 2022_
+8. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the 20th Brazilian Colloquium on Orbital Dynamics - XX CBDO, 2021_
+9. **Guimarães, G. T.**, Michtchenko, T. A., **Methods of detection of chaotic diffusion in dynamical systems** _Book of proceedings of the XLIV Annual Meeting of the Brazilian Astronomical Society - SAB, 2021_
+10. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in Nonlinear Dynamical Systems: Frequency analysis; diffusion timescales** _Book of proceedings of the 19th Brazilian Colloquium on Orbital Dynamics - XIX CBDO, 2018_
+11. **Guimarães, G. T.**, Michtchenko, T. A., **Nyquist Frequency, Chaos Detection and Orbit Determination** _SPANet Workshop on Time Series in Astronomy, 2018_
+12. **Guimarães, G. T.**, Michtchenko, T. A., **Chaos in the Dynamical Systems: Lyapunov and Frequency Analysis; Diffusion Timescales** _26th International Symposium on Scientific and Technological Initiation at USP, 2018_
 
 ## Conferences
 
 ### International Conferences
-1. **Dynamical instabilities in apsidally aligned systems** <br>Oral Presentation at 57th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Chicago, USA, 2026
-2. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Oral Presentation at the XIII Taller Internacional de Ciéncias Planetárias - Montevideo, Uruguay, 2026
-3. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Poster Presentation at the International Conference on Exoplanets and Planet Formation - Shanghai, China, 2025
-4. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the DPS-EPSC joint meeting - Helsinki, Finland, 2025
-5. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at 56th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Atlanta, USA, 2025
-6. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems - Krakow, Poland, 2024.
-7. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Oral Presentation at the XI Taller De Ciencias Planetarias, Argentina, 2022.
+1. **Dynamical instabilities in apsidally aligned systems** <br>Oral Presentation at 9th International Meeting on Celestial Mechanics (IX CELMEC) - Viterbo, Italy, 2026
+2. **Dynamical Characterization of v1298 b-e planetary pair** <br>Oral Presentation at EPSC meeting - The Hague, Netherlands, 2026
+3. **Dynamical instabilities in apsidally aligned systems** <br>Oral Presentation at 57th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Chicago, USA, 2026
+4. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Oral Presentation at the XIII Taller Internacional de Ciéncias Planetárias - Montevideo, Uruguay, 2026
+5. **Orbital Instabilities in Apsidally-aligned Compact Planetary Systems** <br>Poster Presentation at the International Conference on Exoplanets and Planet Formation - Shanghai, China, 2025
+6. **Orbital Instabilities in Compact Planetary Systems** <br>Oral Presentation at the DPS-EPSC joint meeting - Helsinki, Finland, 2025
+7. **Orbital Instabilities of Compact Planetary Systems** <br>Oral Presentation at 56th Annual meeting of the Division of Dynamical Astronomy of the American Astronomical Society (DDA/AAS) - Atlanta, USA, 2025
+8. **Chaotic diffusion in the frequency space: the confined orbit of Atlas** <br> Oral Presentation at the PiotrFest conference From topology to computations in dynamical systems - Krakow, Poland, 2024.
+9. **Methods of detection of chaotic diffusion in dynamical systems.** <br>Oral Presentation at the XI Taller De Ciencias Planetarias, Argentina, 2022.
 
 ### Domestic Conferences
 1. **Apsidal alignment in young system v1298 Tauri** <br>Oral Presentation at the Young Transiting Planets Workshop - Okinawa, Japan, 2026
